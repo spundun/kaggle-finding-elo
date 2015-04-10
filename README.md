@@ -1,0 +1,1 @@
+This is my attempt at the Kaggle Competition [Finding Elo](http://www.kaggle.com/c/finding-elo). The code is better viewed as an [IPython notebook on ipython.org](http://nbviewer.ipython.org/github/spundun/kaggle-finding-elo/blob/master/FindingElo.ipynb) 
